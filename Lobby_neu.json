@@ -72,7 +72,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/krasse_karte\/pool\/Pool.json#entry_Lobby"
+                 "value":".\/pool\/Pool.json#entry_Lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -90,7 +90,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/krasse_karte\/Fahrstuhl\/Fahrstuhl.json"
+                 "value":".\/Fahrstuhl\/Fahrstuhl.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -126,7 +126,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/krasse_karte\/Buehne\/Buehne.json#entry_Lobby"
+                 "value":".\/Buehne\/Buehne.json#entry_Lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -162,7 +162,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/krasse_karte\/Foyer\/Foyer.json#Entry_Lobby"
+                 "value":".\/Foyer\/Foyer.json#Entry_Lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
