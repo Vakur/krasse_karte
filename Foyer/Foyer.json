@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/twitter.com\/real_lizardlars"
+                 "value":"https:\/\/www.sachsenfurs.de\/de\/cybereast\/artshow\/lizardlars"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -30,7 +30,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.furaffinity.net\/user\/yaixiay"
+                 "value":"https:\/\/www.sachsenfurs.de\/de\/cybereast\/artshow\/yaixiay"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -48,7 +48,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.furaffinity.net\/user\/Konu"
+                 "value":"https:\/\/www.sachsenfurs.de\/de\/cybereast\/artshow\/konu"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -66,7 +66,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.furaffinity.net\/user\/dracoagamicus"
+                 "value":"https:\/\/www.sachsenfurs.de\/de\/cybereast\/artshow\/draco"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -84,7 +84,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.furaffinity.net\/user\/vakur"
+                 "value":"https:\/\/www.sachsenfurs.de\/de\/cybereast\/artshow\/vakur"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -102,7 +102,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.fusselschwarm.net\/CyberEAST"
+                 "value":"https:\/\/www.sachsenfurs.de\/de\/cybereast\/dealersden\/fusselschwarm"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -120,7 +120,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.etsy.com\/de\/shop\/SasaCreationsDE"
+                 "value":"https:\/\/www.sachsenfurs.de\/de\/cybereast\/dealersden\/sasacreations"
                 }],
          "type":"tilelayer",
          "visible":true,
