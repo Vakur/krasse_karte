@@ -185,7 +185,7 @@
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"onAction"
+                 "value":"onaction"
                 }, 
                 {
                  "name":"openWebsiteTriggerMessage",
