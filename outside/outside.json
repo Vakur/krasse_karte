@@ -436,12 +436,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":21,
          "firstgid":696,
-         "source":"..\/tmp\/Konu_Set_2_Fertig.tsx"
+         "image":"Konu_Set_2_Fertig.png",
+         "imageheight":768,
+         "imagewidth":672,
+         "margin":0,
+         "name":"Konu_Set_2_Fertig",
+         "spacing":0,
+         "tilecount":504,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":12,
          "firstgid":1200,
-         "source":"..\/tmp\/Konu_Set_1_Fertig.tsx"
+         "image":"Konu_Set_1_Fertig.png",
+         "imageheight":384,
+         "imagewidth":384,
+         "margin":0,
+         "name":"Konu_Set_1_Fertig",
+         "spacing":0,
+         "tilecount":144,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
