@@ -180,7 +180,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=sachsenfurs&parent=cybereast.sachsenfurs.de"
+                 "value":"https:\/\/player.twitch.tv\/?video=1089419269&parent=cybereast.sachsenfurs.de"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
